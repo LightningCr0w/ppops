@@ -1,0 +1,785 @@
+{
+    "statusCode": 200,
+    "body": {
+        "evse_data": [
+            {
+                "party_id": "DAB",
+                "operator_id": "AT*HTB",
+                "total_countries": 26,
+                "bel": 609,
+                "deu": 20938,
+                "dnk": 65,
+                "fin": 342,
+                "fra": 6625,
+                "gbr": 1117,
+                "lux": 548,
+                "nor": 0,
+                "nld": 610,
+                "swe": 203
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "BE*BCA",
+                "total_countries": 3,
+                "bel": 8086,
+                "deu": 0,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 64,
+                "nor": 0,
+                "nld": 170,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DEALL",
+                "total_countries": 14,
+                "bel": 5670,
+                "deu": 2234,
+                "dnk": 141,
+                "fin": 16,
+                "fra": 2359,
+                "gbr": 198,
+                "lux": 0,
+                "nor": 16,
+                "nld": 19128,
+                "swe": 254
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DECCH",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 1837,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*CHC",
+                "total_countries": 9,
+                "bel": 0,
+                "deu": 23195,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 705,
+                "gbr": 0,
+                "lux": 23,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*EBW",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 9496,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*EDR",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 1898,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*GCE",
+                "total_countries": 4,
+                "bel": 0,
+                "deu": 5798,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 55,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*IOY",
+                "total_countries": 23,
+                "bel": 127,
+                "deu": 1164,
+                "dnk": 102,
+                "fin": 151,
+                "fra": 1622,
+                "gbr": 397,
+                "lux": 0,
+                "nor": 412,
+                "nld": 136,
+                "swe": 322
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*ISE",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 13536,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*MDS",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 2797,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*QWC",
+                "total_countries": 8,
+                "bel": 0,
+                "deu": 885,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 107,
+                "gbr": 62,
+                "lux": 0,
+                "nor": 0,
+                "nld": 9001,
+                "swe": 1149
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*UFC",
+                "total_countries": 9,
+                "bel": 0,
+                "deu": 1004,
+                "dnk": 3728,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 96,
+                "lux": 0,
+                "nor": 0,
+                "nld": 10,
+                "swe": 788
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DE*WAT",
+                "total_countries": 7,
+                "bel": 0,
+                "deu": 177,
+                "dnk": 6,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 236,
+                "lux": 0,
+                "nor": 164,
+                "nld": 0,
+                "swe": 1336
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DK*CLE",
+                "total_countries": 2,
+                "bel": 0,
+                "deu": 4,
+                "dnk": 11430,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DK*MON",
+                "total_countries": 20,
+                "bel": 191,
+                "deu": 814,
+                "dnk": 9668,
+                "fin": 110,
+                "fra": 1577,
+                "gbr": 903,
+                "lux": 0,
+                "nor": 381,
+                "nld": 47,
+                "swe": 973
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DK*OKO",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 0,
+                "dnk": 1446,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "DK*SPI",
+                "total_countries": 12,
+                "bel": 295,
+                "deu": 942,
+                "dnk": 5054,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 2,
+                "lux": 22,
+                "nor": 19,
+                "nld": 808,
+                "swe": 27
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "FI*001",
+                "total_countries": 21,
+                "bel": 36,
+                "deu": 4316,
+                "dnk": 618,
+                "fin": 2460,
+                "fra": 3631,
+                "gbr": 90,
+                "lux": 0,
+                "nor": 252,
+                "nld": 0,
+                "swe": 3557
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "FR*TCB",
+                "total_countries": 6,
+                "bel": 10963,
+                "deu": 546,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 4819,
+                "gbr": 0,
+                "lux": 461,
+                "nor": 0,
+                "nld": 919,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "NL*ENE",
+                "total_countries": 2,
+                "bel": 1707,
+                "deu": 0,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 0,
+                "lux": 0,
+                "nor": 0,
+                "nld": 5928,
+                "swe": 0
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "NL*GFX",
+                "total_countries": 14,
+                "bel": 7298,
+                "deu": 865,
+                "dnk": 0,
+                "fin": 34,
+                "fra": 5203,
+                "gbr": 3293,
+                "lux": 3,
+                "nor": 86,
+                "nld": 31514,
+                "swe": 965
+            },
+            {
+                "party_id": "DAB",
+                "operator_id": "NL*LMS",
+                "total_countries": 18,
+                "bel": 17031,
+                "deu": 5104,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 3807,
+                "gbr": 14,
+                "lux": 69,
+                "nor": 0,
+                "nld": 42207,
+                "swe": 31
+            },
+            {
+                "party_id": "MFG",
+                "operator_id": "GB*MFG",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 0,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 1724,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            },
+            {
+                "party_id": "OSP",
+                "operator_id": "GB*OSP",
+                "total_countries": 1,
+                "bel": 0,
+                "deu": 0,
+                "dnk": 0,
+                "fin": 0,
+                "fra": 0,
+                "gbr": 2681,
+                "lux": 0,
+                "nor": 0,
+                "nld": 0,
+                "swe": 0
+            }
+        ],
+        "registered_cps": [
+            {
+                "count": 42010,
+                "party_id": "DAB",
+                "operator_id": "AT*HTB"
+            },
+            {
+                "count": 8318,
+                "party_id": "DAB",
+                "operator_id": "BE*BCA"
+            },
+            {
+                "count": 30346,
+                "party_id": "DAB",
+                "operator_id": "DEALL"
+            },
+            {
+                "count": 1837,
+                "party_id": "DAB",
+                "operator_id": "DECCH"
+            },
+            {
+                "count": 26164,
+                "party_id": "DAB",
+                "operator_id": "DE*CHC"
+            },
+            {
+                "count": 9496,
+                "party_id": "DAB",
+                "operator_id": "DE*EBW"
+            },
+            {
+                "count": 1898,
+                "party_id": "DAB",
+                "operator_id": "DE*EDR"
+            },
+            {
+                "count": 6116,
+                "party_id": "DAB",
+                "operator_id": "DE*GCE"
+            },
+            {
+                "count": 5486,
+                "party_id": "DAB",
+                "operator_id": "DE*IOY"
+            },
+            {
+                "count": 13536,
+                "party_id": "DAB",
+                "operator_id": "DE*ISE"
+            },
+            {
+                "count": 2797,
+                "party_id": "DAB",
+                "operator_id": "DE*MDS"
+            },
+            {
+                "count": 11291,
+                "party_id": "DAB",
+                "operator_id": "DE*QWC"
+            },
+            {
+                "count": 6599,
+                "party_id": "DAB",
+                "operator_id": "DE*UFC"
+            },
+            {
+                "count": 2132,
+                "party_id": "DAB",
+                "operator_id": "DE*WAT"
+            },
+            {
+                "count": 11434,
+                "party_id": "DAB",
+                "operator_id": "DK*CLE"
+            },
+            {
+                "count": 15612,
+                "party_id": "DAB",
+                "operator_id": "DK*MON"
+            },
+            {
+                "count": 1446,
+                "party_id": "DAB",
+                "operator_id": "DK*OKO"
+            },
+            {
+                "count": 7272,
+                "party_id": "DAB",
+                "operator_id": "DK*SPI"
+            },
+            {
+                "count": 20044,
+                "party_id": "DAB",
+                "operator_id": "FI*001"
+            },
+            {
+                "count": 18664,
+                "party_id": "DAB",
+                "operator_id": "FR*TCB"
+            },
+            {
+                "count": 7635,
+                "party_id": "DAB",
+                "operator_id": "NL*ENE"
+            },
+            {
+                "count": 49619,
+                "party_id": "DAB",
+                "operator_id": "NL*GFX"
+            },
+            {
+                "count": 69070,
+                "party_id": "DAB",
+                "operator_id": "NL*LMS"
+            },
+            {
+                "count": 1724,
+                "party_id": "MFG",
+                "operator_id": "GB*MFG"
+            },
+            {
+                "count": 2681,
+                "party_id": "OSP",
+                "operator_id": "GB*OSP"
+            }
+        ],
+        "waiting_cps": [
+            {
+                "count": 23,
+                "party_id": "DAB",
+                "operator_id": "AT*HTB"
+            },
+            {
+                "count": 4,
+                "party_id": "DAB",
+                "operator_id": "BE*BCA"
+            },
+            {
+                "count": 25,
+                "party_id": "DAB",
+                "operator_id": "DEALL"
+            },
+            {
+                "count": 3,
+                "party_id": "DAB",
+                "operator_id": "DECCH"
+            },
+            {
+                "count": 17,
+                "party_id": "DAB",
+                "operator_id": "DE*CHC"
+            },
+            {
+                "count": 4,
+                "party_id": "DAB",
+                "operator_id": "DE*EBW"
+            },
+            {
+                "count": 8,
+                "party_id": "DAB",
+                "operator_id": "DE*EDR"
+            },
+            {
+                "count": 2,
+                "party_id": "DAB",
+                "operator_id": "DE*GCE"
+            },
+            {
+                "count": 6,
+                "party_id": "DAB",
+                "operator_id": "DE*ISE"
+            },
+            {
+                "count": 7,
+                "party_id": "DAB",
+                "operator_id": "DE*MDS"
+            },
+            {
+                "count": 5,
+                "party_id": "DAB",
+                "operator_id": "DE*QWC"
+            },
+            {
+                "count": 1,
+                "party_id": "DAB",
+                "operator_id": "DE*UFC"
+            },
+            {
+                "count": 1,
+                "party_id": "DAB",
+                "operator_id": "DE*WAT"
+            },
+            {
+                "count": 8,
+                "party_id": "DAB",
+                "operator_id": "DK*MON"
+            },
+            {
+                "count": 4,
+                "party_id": "DAB",
+                "operator_id": "FI*001"
+            },
+            {
+                "count": 1,
+                "party_id": "DAB",
+                "operator_id": "FR*TCB"
+            },
+            {
+                "count": 6,
+                "party_id": "DAB",
+                "operator_id": "NL*ENE"
+            },
+            {
+                "count": 18,
+                "party_id": "DAB",
+                "operator_id": "NL*GFX"
+            },
+            {
+                "count": 39,
+                "party_id": "DAB",
+                "operator_id": "NL*LMS"
+            }
+        ],
+        "offboarded_cps": [],
+        "coverage": [
+            {
+                "country": "ABW",
+                "total": 2
+            },
+            {
+                "country": "AUT",
+                "total": 9543
+            },
+            {
+                "country": "BEL",
+                "total": 52011
+            },
+            {
+                "country": "BGR",
+                "total": 1
+            },
+            {
+                "country": "CAN",
+                "total": 4
+            },
+            {
+                "country": "CHE",
+                "total": 3943
+            },
+            {
+                "country": "CUW",
+                "total": 35
+            },
+            {
+                "country": "CYP",
+                "total": 191
+            },
+            {
+                "country": "CZE",
+                "total": 991
+            },
+            {
+                "country": "DEU",
+                "total": 97550
+            },
+            {
+                "country": "DNK",
+                "total": 32258
+            },
+            {
+                "country": "ESP",
+                "total": 1589
+            },
+            {
+                "country": "EST",
+                "total": 79
+            },
+            {
+                "country": "FIN",
+                "total": 3113
+            },
+            {
+                "country": "FRA",
+                "total": 30510
+            },
+            {
+                "country": "GBR",
+                "total": 10813
+            },
+            {
+                "country": "GGY",
+                "total": 14
+            },
+            {
+                "country": "GIB",
+                "total": 25
+            },
+            {
+                "country": "GRC",
+                "total": 2
+            },
+            {
+                "country": "HRV",
+                "total": 502
+            },
+            {
+                "country": "HUN",
+                "total": 1485
+            },
+            {
+                "country": "IRL",
+                "total": 226
+            },
+            {
+                "country": "ISL",
+                "total": 694
+            },
+            {
+                "country": "ITA",
+                "total": 1198
+            },
+            {
+                "country": "JEY",
+                "total": 116
+            },
+            {
+                "country": "LIE",
+                "total": 4
+            },
+            {
+                "country": "LTU",
+                "total": 302
+            },
+            {
+                "country": "LUX",
+                "total": 1190
+            },
+            {
+                "country": "LVA",
+                "total": 451
+            },
+            {
+                "country": "MLT",
+                "total": 2
+            },
+            {
+                "country": "MTQ",
+                "total": 8
+            },
+            {
+                "country": "NLD",
+                "total": 110476
+            },
+            {
+                "country": "NOR",
+                "total": 1330
+            },
+            {
+                "country": "POL",
+                "total": 532
+            },
+            {
+                "country": "PRT",
+                "total": 1
+            },
+            {
+                "country": "PYF",
+                "total": 2
+            },
+            {
+                "country": "REU",
+                "total": 2
+            },
+            {
+                "country": "ROU",
+                "total": 1421
+            },
+            {
+                "country": "SVK",
+                "total": 418
+            },
+            {
+                "country": "SVN",
+                "total": 209
+            },
+            {
+                "country": "SWE",
+                "total": 9605
+            },
+            {
+                "country": "THA",
+                "total": 358
+            },
+            {
+                "country": "USA",
+                "total": 22
+            },
+            {
+                "country": "ZAF",
+                "total": 1
+            }
+        ]
+    }
+}

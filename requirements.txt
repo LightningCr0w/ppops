@@ -1,0 +1,4 @@
+dash
+plotly
+pandas
+requests  # If you decide to fetch the data from an API in the future

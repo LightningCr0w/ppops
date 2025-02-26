@@ -1,0 +1,22 @@
+image: python:3.9-slim-buster
+
+stages:
+  - build
+  - test
+
+before_script:
+  - pip install -r requirements.txt
+
+build:
+  stage: build
+  script:
+    - echo "Building the dashboard..."
+    - echo "Dependencies installed successfully."
+
+test:
+  stage: test
+  script:
+    - echo "Running basic tests..."
+    - python -c "import app; print('Dashboard module loaded successfully')"
+    - python -c "import pandas as pd; print('Pandas loaded successfully')"
+    - echo "Tests completed."
